@@ -1,0 +1,6 @@
+export const SET_BREEDS = 'SET_BREEDS';
+export const SET_PHOTOS = 'SET_PHOTOS';
+export const SET_FAVORITES = 'SET_FAVORITES';
+export const ADD_TO_FAVORITES = 'ADD_TO_FAVORITES';
+export const REMOVE_FROM_FAVORITES = 'REMOVE_FROM_FAVORITES';
+export const SET_USER = 'SET_USER';

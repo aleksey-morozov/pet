@@ -1,0 +1,7 @@
+export const LOAD_BREEDS = 'LOAD_BREEDS';
+export const LOAD_RANDOM_BREED_PHOTOS = 'LOAD_PHOTOS';
+export const TOGGLE_FAVORITE_IMAGE = 'TOGGLE_FAVORITE_IMAGE';
+export const LOAD_FAVORITES = 'LOAD_FAVORITES';
+export const SIGNIN = 'SIGNIN';
+export const SIGNUP = 'SIGNUP';
+export const SIGNOUT = 'SIGNOUT';
