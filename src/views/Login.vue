@@ -35,7 +35,6 @@ export default {
   },
   methods: {
     async signIn() {
-      console.log('signIn');
       await this.$store.dispatch(SIGNIN, {
         email: this.email,
         password: this.password,

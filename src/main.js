@@ -13,7 +13,6 @@ Vue.config.productionTip = false;
 let app = null;
 
 auth.onAuthStateChanged((user) => {
-  console.log('onAuthStateChanged');
   if (user) {
     store.commit(SET_USER, {
       uid: user.uid,
